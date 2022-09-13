@@ -1,6 +1,6 @@
 # 🔥 Password Generator Solution
 
-## [Live Demo](https://nwebpro.github.io/book-bhandar-solution/)
+## [Live Demo](https://nwebpro.github.io/password-generator-solution/)
 
 ## Task Requirement
 
